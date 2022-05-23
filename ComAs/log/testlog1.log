@@ -1,0 +1,33 @@
+
+2022-05-19 23:31:35,415 [main] INFO Base - Search successfull
+2022-05-19 23:32:24,147 [main] INFO Base - Search successfull
+2022-05-19 23:33:15,676 [main] INFO Base - Search successfull
+2022-05-20 10:25:43,338 [main] INFO Base - Search successfull
+2022-05-20 10:27:39,834 [main] INFO Base - Search successfull
+2022-05-20 10:45:57,639 [main] INFO Base - Navigated to Bedroom page
+2022-05-20 15:13:45,260 [main] INFO Base - Search successfull
+2022-05-20 15:41:20,550 [main] INFO Base - page about
+2022-05-20 15:41:27,576 [main] INFO Base - Navigated to privacy policy page
+2022-05-20 16:00:09,690 [main] INFO Base - page about
+2022-05-20 16:00:16,803 [main] INFO Base - Navigated to privacy policy page
+2022-05-20 16:00:38,479 [main] INFO Base - Login Successfully
+2022-05-20 16:00:49,460 [main] INFO Base - Search successfull
+2022-05-20 16:01:00,469 [main] INFO Base - Navigated to Bedroom page
+2022-05-20 16:01:41,590 [main] INFO Base - expected result is equal to actual result
+2022-05-20 16:06:20,394 [main] INFO Base - expected result is equal to actual result
+2022-05-20 16:16:41,067 [main] INFO Base - page about
+2022-05-20 16:16:48,542 [main] INFO Base - Navigated to privacy policy page
+2022-05-20 16:17:12,025 [main] INFO Base - Login Successfully
+2022-05-20 16:17:22,789 [main] INFO Base - Search successfull
+2022-05-20 16:17:35,115 [main] INFO Base - Navigated to Bedroom page
+2022-05-20 16:18:23,688 [main] INFO Base - expected result is equal to actual result
+2022-05-20 16:23:44,044 [main] INFO Base - Navigated to privacy policy page
+2022-05-20 16:25:43,303 [main] INFO Base - Navigated to privacy policy page
+2022-05-21 22:10:14,095 [main] INFO Base - page about
+2022-05-21 22:10:38,140 [main] INFO Base - Login Successfully
+2022-05-21 22:10:48,950 [main] INFO Base - Search successfull
+2022-05-21 22:10:59,669 [main] INFO Base - Navigated to Bedroom page
+2022-05-21 22:11:47,531 [main] INFO Base - Navigated to privacy policy page
+2022-05-21 22:14:59,923 [main] INFO Base - expected result is equal to actual result
+2022-05-22 00:09:37,532 [main] INFO Base - Login Successfully
+2022-05-23 18:54:03,025 [main] INFO Base - expected result is equal to actual result
